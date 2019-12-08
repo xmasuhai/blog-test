@@ -17,7 +17,7 @@
 4. 网易云课堂前端付费课程 难度陡增；
 > 均放弃，还想最后试转前端：赚钱/从现在的职业瓶颈（模具）跳出来
 
-刚学了点：
+刚学了点皮毛：
 ```javascript
 function f(){
   console.log('hello world')
@@ -25,4 +25,3 @@ function f(){
 
 f()
 ```
-皮毛'GitHub'
